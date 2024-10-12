@@ -2,7 +2,7 @@
 
 ### What is Bitcoin flashing?
 
-Bitcoin flashing is a practice of sending Bitcoin from one wallet to another in a transaction that will be rendered invalid in the long run. This is acheived either by manipulating the transaction signature, gas fees, or altering the token decimals programatically.
+Bitcoin flashing is the practice of sending Bitcoin from one wallet to another in a transaction that will be rendered invalid in the long run. This is acheived either by manipulating the transaction signature, gas fees, or altering the token decimals programatically.
 
 ### Bitcoin flashing software
 
